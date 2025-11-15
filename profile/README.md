@@ -105,7 +105,7 @@ Menjadi solusi digital terdepan dalam manajemen operasional laundry yang efisien
 
 ---
 
-# 🛠️ Teknologi (Opsional)
+# 🛠️ Teknologi
 - Backend:  Node.js, Express.js
 - Frontend:  NextJs, TailwindCSS
 - Database:  PostgreSQL, Sequelize
